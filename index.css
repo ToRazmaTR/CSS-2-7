@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wholepage {
+    max-width: 1920px;
+    width: 100%;
+    padding: 226px 158px;
+}
+
+#middlepage {
+    background: #1B0E0F;
+    padding: 96px;
+    max-width: 1604px;
+    width: 100%;
+}
+
+#workpage {
+    max-width: 1412px;
+    width: 100%;
+    background: #FFF;
+    padding-top: 96px;
+    padding-bottom: 96px;
+    padding-left: 66px;
+}
+/* headercontainer */
+
+#headercontainer {
+    max-width: 1280px;
+    width: 100%;
+    padding: 0px 32px;
+    text-align: center;
+    padding-bottom: 56px;
+    padding-top: 96px;
+
+}
+
+#ourblog {
+    color: #002AFE;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+#Resources {
+    color: #181D27;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+#industry {
+    color: #535862;
+    font-size: 20px;
+}
+
+/* startdiv */
+
+#startdiv {
+    margin-bottom: 56px;
+}
+
+#startdivimg {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#startdivarticle {
+    max-width: 584px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#design {
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#collaboration {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#firsttext {
+    color: #535862;
+    font-size: 16px;
+}
+
+#startdivps {
+    margin-bottom: 24px;
+}
+
+#natali-logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#NataliCraig {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* middlediv */
+
+#middlediv {
+    margin-bottom: 56px;
+}
+
+#middledivimg {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#middledivarticle {
+    max-width: 584px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#middleps {
+    margin-bottom: 24px;
+}
+
+
+#product{
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#Javascript {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#frameworks {
+    color: #535862;
+    font-size: 16px;
+}
+
+
+#natali-logo2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#NataliCraig2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* middlediv */
+
+#lastdiv {
+    margin-bottom: 56px;
+    
+}
+
+#lastimg {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+#lastarticle {
+    max-width: 584px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#lastps {
+    margin-bottom: 24px;
+}
+
+
+#Success {
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#Podcast {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+#complicated {
+    color: #535862;
+    font-size: 16px;
+}
+
+
+#natali-logo3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#NataliCraig3 {
+    display: inline-block;
+    vertical-align: middle;
+}
